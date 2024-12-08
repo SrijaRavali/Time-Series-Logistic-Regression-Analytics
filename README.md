@@ -1,5 +1,6 @@
 # Time-Series-Logistic-Regression-Analytics
 "Exploring time series patterns and logistic regression techniques for statistical insights" 
+
 Background: This project encompasses a comprehensive analysis of two distinct datasets employing advanced statistical techniques. It combines Time Series Analysis for climate data obtained from the Climate Institute of the University of East Anglia and Logistic Regression for blood sample data focused on diabetes diagnostics, collected from an Iraqi University Hospital in 2020.
 
 Climate Dataset Analysis: The primary objective of the climate dataset analysis is to discern patterns and relationships among various climatic variables such as temperature, precipitation, and atmospheric pressure using Time Series Analysis. The methodology involves descriptive statistics and visualizations to unveil long-term climate trends. Time series forecasting models like ARIMA or SARIMA are employed to predict future climate conditions based on historical data. Model performance is assessed using key metrics such as mean absolute error (MAE) and root mean squared error (RMSE). The findings shed light on predictive capabilities and limitations of each model.
